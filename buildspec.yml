@@ -21,7 +21,6 @@ artifacts:
     - appspec.yml
     - buildspec.yml
     - scripts/*
-  base-directory: build
   discard-paths: yes
 
 cache:
